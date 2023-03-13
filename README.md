@@ -1,1 +1,6 @@
 # Projeto_Analise_e-Predicao_Churn
+
+## Descrição
+Este projeto de análise de churn tem como objetivo investigar as razões pelas quais os clientes estão cancelando seus cartões de crédito e identificar possíveis soluções para reduzir a taxa de churn da operadora de cartão. A análise de churn é uma ferramenta valiosa para empresas que desejam entender a rotatividade de clientes e, assim, desenvolver estratégias para reter e fidelizar seus clientes. Ao analisar o comportamento dos clientes, o histórico de transações, as interações com a empresa e outros fatores relevantes, a operadora de cartão poderá identificar os principais fatores que estão levando à perda de clientes e implementar medidas para reduzir a taxa de churn. Este projeto também inclui a criação de modelos de previsão de churn, que podem ser usados para prever quais clientes são mais propensos a cancelar seus cartões e permitir que a empresa tome medidas proativas para reter esses clientes antes que eles partam. Com essa análise, a operadora de cartão poderá aprimorar suas estratégias de retenção de clientes, melhorar a satisfação dos clientes e aumentar a rentabilidade a longo prazo.
+
+Os dados utilizados para o projeto foram retirados do site kaggle e o link do bancos de dados é: https://www.kaggle.com/datasets/anwarsan/credit-card-bank-churn
